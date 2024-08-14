@@ -1,0 +1,22 @@
+Surface
+- Slow rails (0/1)
+- Net (Done)
+    - Bat (0/1)
+    - Bat stew (Done)
+    - Squid (0/1)
+    - Glow squid (0/1)
+- ##Poop
+    - ##Guano
+
+Nether
+- Colored Quartz
+- Soul TNT (0/1)
+- Horse Armor Stand (0/1)
+- Spectre Wheat (0/1)
+    - Dimensional Bread (0/1)
+
+End
+- End Cloud (0/2)
+- Ender Flower (0/1)
+    - Multicolor Dye : 1/3
+- Ender Pearl Block (0/2)

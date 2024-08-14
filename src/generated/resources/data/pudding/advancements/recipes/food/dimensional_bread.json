@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_spectre_wheat": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pudding:spectre_wheat"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pudding:dimensional_bread"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_spectre_wheat"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pudding:dimensional_bread"
+    ]
+  },
+  "sends_telemetry_event": false
+}

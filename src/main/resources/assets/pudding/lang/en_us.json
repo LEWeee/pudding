@@ -1,0 +1,21 @@
+{
+  "item.pudding.pudding":  "§ePudding",
+
+  "item.pudding.net": "Net",
+  "item.pudding.bat": "Bat",
+  "item.pudding.squid": "Squid",
+  "item.pudding.glow_squid": "Glow Squid",
+  "item.pudding.bat_stew": "Bat Stew",
+
+  "tooltip.pudding.bat.tooltip": "§7Please let me free D=",
+  "tooltip.pudding.squid.tooltip": "§7What does the squid say?",
+  "tooltip.pudding.glow_squid.tooltip": "§7Squid, but... glow... ing",
+
+  "item.pudding.spectre_wheat_seeds": "Spectre Wheat Seeds",
+  "item.pudding.spectre_wheat": "Spectre Wheat",
+  "item.pudding.dimensional_bread": "Dimensional Bread",
+
+  "item.pudding.multicolor_dye": "Multicolor Dye",
+
+  "block.pudding.ender_pearl_block": "Ender Pearl Block"
+}

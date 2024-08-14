@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "pudding:spectre_wheat"
+    }
+  },
+  "pattern": [
+    "XXX"
+  ],
+  "result": {
+    "item": "pudding:dimensional_bread"
+  },
+  "show_notification": true
+}

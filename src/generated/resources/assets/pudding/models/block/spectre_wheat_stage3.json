@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "crop": "pudding:block/spectre_wheat_stage3"
+  }
+}

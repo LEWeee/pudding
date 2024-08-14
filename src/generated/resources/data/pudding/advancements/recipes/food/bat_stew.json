@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bat": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pudding:bat"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pudding:bat_stew"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_bat"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pudding:bat_stew"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,11 @@
+// 1.20.2	2024-08-11T17:33:11.6920753	Recipes
+5e6c38bd35267c062d6f0cff10d664e18fbae3e8 data/minecraft/advancements/recipes/misc/ender_pearl.json
+e77fbd9f855d9048c4119250a2d3f79e28c5830a data/minecraft/recipes/ender_pearl.json
+c95d0b8707b88bca1937df7cf0ce4d41e9ba4372 data/pudding/advancements/recipes/food/bat_stew.json
+df21f394f40deda3bede234c87fbb9036d5b6afa data/pudding/advancements/recipes/food/dimensional_bread.json
+f85501712257aef7935b4185cf8ac5ca090d7653 data/pudding/advancements/recipes/misc/ender_pearl_block.json
+5f51d36392be031180664ad422ae29fc5a7b8a14 data/pudding/advancements/recipes/tools/net.json
+71b7003498ea81867896eea721dc98a69621fcf7 data/pudding/recipes/bat_stew.json
+2b326f148e2b00a1f6909038d274f7d371a3e054 data/pudding/recipes/dimensional_bread.json
+7d1b79d1e0806949314e372c0c87edcd1d1b618f data/pudding/recipes/ender_pearl_block.json
+0c043ba32ac351cd88b1fe1dbcc3eef57b646762 data/pudding/recipes/net.json
