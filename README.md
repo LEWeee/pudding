@@ -15,4 +15,5 @@ Nets can be crafted which catch bats, squids and glow squids. Then you can relea
 <img align="right" src="https://i.imgur.com/YYO4P3o.gif" alt="Spectre wheat" width="300"/>
 Spectre wheat is a new nether crop which grows on soul sand. 3 of it make dimensional bread, which has a chance of turning you invisible. Otherwise just a fancier version of wheat.
 
+---
 More features coming soon.... Or not.
